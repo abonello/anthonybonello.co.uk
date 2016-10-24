@@ -49,7 +49,7 @@ body .nav .nav-menu li a {
 	text-decoration: underline;
 }
 .nav.yoga .nav-toggled {
-	min-height:36px;
+	min-height: 36px;
 	border-radius:6px;
 	margin-top: -7px;
 }
@@ -148,7 +148,8 @@ body .nav .nav-menu li a {
 		margin-bottom: 3px;
 	}
 	.nav-outer {
-		height: 21px;
+		/*height: 21px;*/
+		height: 60px;
 	}
 	.nav.yoga .nav-toggled-controls {
 		top: -40px;
